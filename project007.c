@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Learning more abou float operations
+// Learning more about float operations
 int main()
 {
     int num1 = 5;
