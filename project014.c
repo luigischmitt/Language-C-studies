@@ -1,9 +1,9 @@
 #include <stdio.h>
 
+// Learning About Switch
 int main()
 {
     int i;
-
     printf("Type a number between 1 to 5: ");
     scanf("%i", &i);
 
