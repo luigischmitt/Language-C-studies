@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Practicing with exercises
+// Practicing with exercises - 1 
 int main() 
 {
     int num1, num2;
